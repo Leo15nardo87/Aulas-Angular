@@ -4,6 +4,9 @@ git add = adicionar arquivos no versionamento do git.
 git status= verfificar status atual do repositorio.
 git add .= adicionar todos os arquivos da pasta de uma só vez.
 git commit -m "comentario"= registrar o trabalho.
+git push remote branch = comando para enviar o codigo para o repositorio remoto."Git Hub".Origin = remote padrao do git.Branch padrao se chama master.
+git push origin master= comando padrao para enviar os arquivos para o repositorio.
+
 
 
 

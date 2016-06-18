@@ -1,7 +1,9 @@
+git clone linkdorepositorio = clonar o repositorio da net ou de outro computador.
 git init = iniciar um novo repositorio.
 git add = adicionar arquivos no versionamento do git.
 git status= verfificar status atual do repositorio.
 git add .= adicionar todos os arquivos da pasta de uma só vez.
 git commit -m "comentario"= registrar o trabalho.
+
 
 
