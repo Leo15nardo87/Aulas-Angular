@@ -8,7 +8,11 @@ git commit -am "comentar"= adiciona e registra o trabalho ao mesmo tempo.
 git push remote branch = comando para enviar o codigo para o repositorio remoto."Git Hub".Origin = remote padrao do git.Branch padrao se chama master.
 git push origin master= comando padrao para enviar os arquivos para o repositorio.
 git config --global= alteração de usuario ou email
-git pull origin master = baixas alterações do repositorio
+<<<<<<< HEAD
+git pull origin master =:baixas alterações do repositorio
+=======
+git pull origin master = baixas alterações do repositório
+>>>>>>> 13d4b46305bf5c4a29a3b89a07dd624dbfcc909b
 
 
 
